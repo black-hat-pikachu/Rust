@@ -59,6 +59,7 @@
     * [Maximum Subarray](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/maximum_subarray.rs)
     * [Rod Cutting](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/rod_cutting.rs)
     * [Snail](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/snail.rs)
+    * [Subset Generation](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/subset_generation.rs)
   * General
     * [Convex Hull](https://github.com/TheAlgorithms/Rust/blob/master/src/general/convex_hull.rs)
     * [Fisher Yates Shuffle](https://github.com/TheAlgorithms/Rust/blob/master/src/general/fisher_yates_shuffle.rs)
